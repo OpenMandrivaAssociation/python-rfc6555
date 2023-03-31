@@ -1,6 +1,6 @@
 Name:		python-rfc6555
 Version:	0.1.0
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/r/rfc6555/rfc6555-%{version}.tar.gz
 Summary:	Python implementation of the Happy Eyeballs Algorithm described in RFC 6555.
 URL:		https://pypi.org/project/rfc6555/
